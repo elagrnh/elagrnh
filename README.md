@@ -1,7 +1,7 @@
 <h1>Hey there👋🏼, This is Elahe👾</h1>
-<h3 align="center">A student who is learning most of the time, and doing something cool once in a while.📚✨️</h3>
+<h3 align="center">A BME student who is learning most of the time, and doing something cool once in a while.📚✨️</h3>
 
-- 🌱 I’m currently learning **Python, HTML and CSS.**
+- 🌱 I’m currently learning **Python, Machine Learning, HTML and CSS.**
 
 - 📫 How to reach me **elagrnh@gmail.com**
 
